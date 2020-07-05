@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5850" started-at="2020-07-05T05:06:09Z" finished-at="2020-07-05T05:06:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5850" started-at="2020-07-05T05:06:09Z" finished-at="2020-07-05T05:06:15Z">
+      <class name="com.rameshsoft.automation.gmail.scripts.FaceBookTest">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:com.rameshsoft.automation.gmail.scripts.FaceBookTest@4411d970]" name="openBrowser" is-config="true" duration-ms="6661" started-at="2020-07-05T10:36:02Z" finished-at="2020-07-05T10:36:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="beforeTCExecution(java.lang.reflect.Method)[pri:0, instance:com.rameshsoft.automation.gmail.scripts.FaceBookTest@4411d970]" name="beforeTCExecution" is-config="true" duration-ms="0" started-at="2020-07-05T10:36:09Z" finished-at="2020-07-05T10:36:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.rameshsoft.automation.gmail.scripts.FaceBookTest.fbTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTCExecution -->
+        <test-method status="PASS" signature="fbTest()[pri:0, instance:com.rameshsoft.automation.gmail.scripts.FaceBookTest@4411d970]" name="fbTest" duration-ms="5018" started-at="2020-07-05T10:36:09Z" finished-at="2020-07-05T10:36:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbTest -->
+        <test-method status="PASS" signature="afterTCExecution(org.testng.ITestResult)[pri:0, instance:com.rameshsoft.automation.gmail.scripts.FaceBookTest@4411d970]" name="afterTCExecution" is-config="true" duration-ms="2" started-at="2020-07-05T10:36:14Z" finished-at="2020-07-05T10:36:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fbTest status=SUCCESS method=FaceBookTest.fbTest()[pri:0, instance:com.rameshsoft.automation.gmail.scripts.FaceBookTest@4411d970] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTCExecution -->
+        <test-method status="PASS" signature="beforeTCExecution(java.lang.reflect.Method)[pri:0, instance:com.rameshsoft.automation.gmail.scripts.FaceBookTest@4411d970]" name="beforeTCExecution" is-config="true" duration-ms="1" started-at="2020-07-05T10:36:14Z" finished-at="2020-07-05T10:36:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.rameshsoft.automation.gmail.scripts.FaceBookTest.fbTest1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTCExecution -->
+        <test-method status="PASS" signature="fbTest1()[pri:0, instance:com.rameshsoft.automation.gmail.scripts.FaceBookTest@4411d970]" name="fbTest1" duration-ms="824" started-at="2020-07-05T10:36:14Z" finished-at="2020-07-05T10:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbTest1 -->
+        <test-method status="PASS" signature="afterTCExecution(org.testng.ITestResult)[pri:0, instance:com.rameshsoft.automation.gmail.scripts.FaceBookTest@4411d970]" name="afterTCExecution" is-config="true" duration-ms="0" started-at="2020-07-05T10:36:15Z" finished-at="2020-07-05T10:36:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fbTest1 status=SUCCESS method=FaceBookTest.fbTest1()[pri:0, instance:com.rameshsoft.automation.gmail.scripts.FaceBookTest@4411d970] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTCExecution -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.rameshsoft.automation.gmail.scripts.FaceBookTest@4411d970]" name="closeBrowser" is-config="true" duration-ms="9779" started-at="2020-07-05T10:36:15Z" finished-at="2020-07-05T10:36:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.rameshsoft.automation.gmail.scripts.FaceBookTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
