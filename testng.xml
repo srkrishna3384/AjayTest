@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="none">
   <test name="Test">
     <classes>
-      <class name="com.rameshsoft.automation.gmail.scripts.FaceBookTest"/>
+      <class name="com.rameshsoft.automation.gmail.scripts.SampleTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
